@@ -1,0 +1,10 @@
+.main-container
+{
+  width: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 100px;
+}
